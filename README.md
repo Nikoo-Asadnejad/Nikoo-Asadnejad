@@ -1,6 +1,10 @@
-### Hi there 👋 I'm Nikoo Asadnejad 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+</div>
 
-         
+<h1 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Nikoo Asadnejad  
+</h1>
 
 ### :woman_technologist: About Me :
 I’ve always been a great problem solver, a Self-motivated learner,and a technophile obsessed. 
@@ -8,10 +12,11 @@ Today, I’m a Back End Developer with industry experience building web applicat
 - :telescope: I’m working as a Software Engineer and i'm trying to build applications which solve people problems.
 - :seedling: I'm always looking to learn new technologies and explore tech world.
 
+</br>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+### <p align="center"> :hammer_and_wrench: Languages and Tools :</p> 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40"      height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
@@ -30,6 +35,8 @@ Today, I’m a Back End Developer with industry experience building web applicat
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikoo-asadnejad&theme=dark&background=000000)](https://git.io/streak-stats) </br> </br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoo-asadnejad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
