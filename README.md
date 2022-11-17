@@ -11,8 +11,8 @@ I’ve always been a great problem solver, a Self-motivated learner,and a techno
 Today, I’m a Back End Developer with industry experience building web applications Using .Net Core.
 I specialize in C#.Net , and I have professional experience working with SQL Server ,Entity Framework Core, Restful Apis and Git.
 I’m also familiar with Micro services ,Redis, MongoDb, RabbitMQ, MVC, Html, Css, JavaScript and JQuery.
-- :telescope: I’m working as a Software Engineer and i'm trying to build applications which solve people problems.
-- :seedling: I'm always looking to learn new technologies and explore tech world.
+- :seedling: I’m working as a Software Engineer and i'm trying to build applications which solve people problems.
+- :telescope : I'm always looking to learn new technologies and explore tech world.
 
 </br>
 
