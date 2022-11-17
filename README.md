@@ -12,7 +12,7 @@ Today, I’m a Back End Developer with industry experience building web applicat
 I specialize in C#.Net , and I have professional experience working with SQL Server ,Entity Framework Core, Restful Apis and Git.
 I’m also familiar with Micro services ,Redis, MongoDb, RabbitMQ, MVC, Html, Css, JavaScript and JQuery.
 - :seedling: I’m working as a Software Engineer and i'm trying to build applications which solve people problems.
-- :telescope : I'm always looking to learn new technologies and explore tech world.
+- :telescope: I'm always looking to learn new technologies and explore tech world.
 
 </br>
 
