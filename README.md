@@ -7,10 +7,10 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I’ve always been a great problem solver, a Self-motivated learner,and a technophile obsessed. 
-Today, I’m a Back End Developer with industry experience building web applications Using .Net Core.
-I specialize in C#.Net , and I have professional experience working with SQL Server ,Entity Framework Core, Restful Apis and Git.
-I’m also familiar with Microservices ,DDD & CQRS ,gRpc ,Elk, Redis, MongoDb, RabbitMQ, MVC, Html, Css, JavaScript and JQuery.
+With a degree in Software Engineering and a deep passion for technology, I specialize in crafting scalable, high-performance back-end solutions using ASP.NET Core and C#. My expertise spans SQL Server, Entity Framework, RESTful APIs, and Git, enabling me to deliver robust, efficient web applications.
+Driven by a love for problem-solving, I thrive on tackling complex challenges and staying ahead of industry trends. Alongside my core skills, I’m well-versed in modern technologies like Microservices, DDD, CQRS, gRPC, Redis, MongoDB, RabbitMQ, and front-end essentials like HTML, CSS, JavaScript, and MVC.
+I’m passionate about continuous learning and growth, always eager to connect with like-minded professionals and explore innovative ideas in the tech community. 
+Let’s connect and build the future of technology together!
 - :seedling: As a Software Engineer and i'm trying to build applications which solve people problems.
 - :telescope: Always looking forward to learn cutting-edge technologies and explore tech world.
 
