@@ -40,6 +40,8 @@ Let’s connect and build the future of technology together!
 ### :mailbox:How to reach me: 
  LinkedIn : <a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/nikoo-asadnejad-84611b180?trk=profile-badge">Nikoo Asadnejad</a> </br>
  Email : nikoo.asadnejad.work@gmail.com
+ </br>
+ Medium : [nikoo.asadnejad.work@gmail.com](https://medium.com/@nikoo.asadnejad.work)
 
 
 
